@@ -1,7 +1,12 @@
 OCULEAP
 ==========
 VR 3D Vertex Manipulation using Oculus Rift DK1 and Leap Motion Controller
-https://github.com/jessebenjamin/git_oculus
+
+![Image](http://forum.processing.org/two/uploads/imageupload/380/ZP852KOSNV46.png)
+
+![Image](http://forum.processing.org/two/uploads/imageupload/637/JW60LN7R283E.png)
+
+![Image](http://forum.processing.org/two/uploads/imageupload/728/QUN3AORC71EL.png)
 --------------------------------------------------------------------------
 prog:  Jesse Benjamin & Alexander Morosow / Interaction Design / BTK-FH/ http://btk-fh.de/
 date:  05/23/2014 (m/d/y)
